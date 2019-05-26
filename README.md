@@ -1,3 +1,5 @@
+Deploys to https://competent-feynman-998d6b.netlify.com
+
 # PersonalBlog
 
 A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
