@@ -1,36 +1,76 @@
 ---
-title: Reflecting on Japan
-subTitle: Free Community Plan
-cover: photo-1507915600431-5292809c5ab7-cover.jpg
+title: My reflections on Japan
+subTitle: A weird and wonderful place
+cover: gold-temple-kyoto.jpg
 category: "travel"
 ---
 
-As I wrote in the [Starter Instalation](/install-personal-blog-starter/) post the starter needs access data to your [Algolia](https://www.algolia.com/) account.
+![Golden Temple in Kyoto](./gold-temple-kyoto.jpg)
+_Photo: Swathi Mummini_
 
-If you do not have an Algolia account yet you have to [sign up](https://www.algolia.com/users/sign_up) now.
+I've been back from Japan for a few weeks, so I've had time to readjust and reflect on my time there.
 
-If you already have an account go and open the [Apps](https://www.algolia.com/manage/applications) page and click the **NEW APPLICATION** button.
+### The land of 1000 7Elevens
 
-...
+One thing that came out of den
 
-#### Front-end web development
+### Awesome transit
+The transit there is amazing. Fast and timely trains are everywhere, even small, remote towns. Tourists are able to buy a JR pass for ~$400, an amazing value. Most Shinkansen (bullet train) tickets are ~$100-300, so if you leave Tokyo, it probably makes sense to get a JR pass.
 
-To read the whole instruction article - [Setup Algolia account for your GatsbyJS blog](https://dev.greglobinski.com/setup-algolia-account/) - you have to move to [Front-end web development with Greg](https://dev.greglobinski.com) website.
+![Empty JR station](./jr-empty.jpg)
+_Photo: Swathi Mummini_, probably the only empty Shinkansen platform in Japan
 
-...
+### Delicous Food
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+![Meal at Hakone Ryokan](./hakone-meal.jpg)
+_Photo: Swathi Mummini_, meal in Hakone
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+### Beautiful Scenery
 
-Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.
+![River in Takayama](./takayama-night.jpg)
+_Photo: Swathi Mummini_, river walk in Takayama
 
-![unsplash.com](./photo-1507915600431-5292809c5ab7.jpg)
+![Tea fields outside of Nara](./tea-fields.png)
+_Photo: Swathi Mummini_, tea fields outside of Nara
 
-Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+### Density
+Japan is uber dense, especially the eastern coast of Honshu. Because Japan is so mountainous, urban areas are quite dense. Even some of the more rural tea-growing areas that we visited felt like american suburbs, but with rice paddys or rows of tea instead of grass lawns.
 
-### Donec hendrerit laoreet risus eget adipiscing.
+I hate for this to be one of my main takeaways from visiting Japan, because I knew this going into the trip (see Wiki stats below), but it is hard to ignore. Being in such a dense place was invigorating and fun – transit was everywhere, food was everywhere, and it led to some pretty cool sightseeing.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#### Density stats
+For perspective, the Tokyo metro area is similar in population to the state of California, with a fraction of the population.
 
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+_California:_
+* Population:	39,557,045 [source](https://en.wikipedia.org/wiki/California#Population)
+* Land area: 163,696 sq mi (423,970 km2)
+* Population Density:	**240/sq mi (92.6/km2)**
+
+_Metro Tokyo:_
+* Population:	38,140,000 [source](https://en.wikipedia.org/wiki/Tokyo)
+* Land area: 5,240 sq mi (13,572 km2)
+* Population Density:	**6,890/sq mi) (2,662/km2)**
+
+**So Tokyo is ~28.7x more dense than California.**
+
+Honshu, Japan's largest island, and home to Tokyo, Osaka, Kyoto, and others has the same population as the four most populous states combined California, Texas, Florida, and New York in an area slightly smaller than Texas.
+
+_Honshu:_
+* Population:	104,000,000 [source](https://en.wikipedia.org/wiki/Honshu)
+* Land area: 88,020 sq mi (227,960 km2)
+* Population Density:	**1,158 /sq mi) (447 /km2)**
+
+**Honshu is 4.8x more dense than California.**
+
+When you compare the largest cities, it is even more crazy. Tokyo Metro is ~3.7x as dense as New York Metro with roughly double the population.
+
+_New York Metro:_
+* Population:	20,320,876 [source](https://en.wikipedia.org/wiki/New_York_metropolitan_area#Metropolitan_Statistical_Area)
+* Land area: 13,318 sq mi (34,490 km2)
+* Population Density:	**1,781.3/sq mi (687.8/km2)**
+
+_Metro Tokyo:_
+* Population:	38,140,000 [source](https://en.wikipedia.org/wiki/Tokyo)
+* Land area: 5,240 sq mi (13,572 km2)
+* Population Density:	**6,890/sq mi) (2,662/km2)**
+

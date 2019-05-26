@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Brian Shea Hedberg** Web Developer and generalist. Based in Minneapolis, USA.
+**Brian Shea Hedberg** is a web developer and generalist based in Minneapolis, USA.
