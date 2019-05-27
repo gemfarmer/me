@@ -1,6 +1,6 @@
 ---
 title: My reflections on Japan
-subTitle: A weird and wonderful place
+subTitle: Thoughts and photos
 cover: gold-temple-kyoto.jpg
 category: "travel"
 ---
@@ -11,13 +11,13 @@ _Photo: Swathi Mummini_
 I've been back from Japan for a few weeks, so I've had time to readjust and reflect on my time there.
 
 ### Density
-Japan is uber dense, especially the eastern coast of Honshu. Because Japan is so mountainous, urban areas are quite dense. Even some of the more rural tea-growing areas that we visited felt like american suburbs, but with rice paddys or rows of tea instead of grass lawns.
+Japan is uber dense, especially the eastern coast of Honshu. There are people basically anywhere there aren't mountains. Even some of the more rural tea-growing areas that we visited felt like american suburbs, but with rice paddys or rows of tea instead of grass lawns.
 
 I hate for this to be one of my main takeaways from visiting Japan, because I knew this going into the trip (see Wiki stats below), but it is hard to ignore. Being in such a dense place was invigorating and fun – transit was everywhere, food was everywhere, and it led to some pretty cool sightseeing. For instance, we slept in a capsule hotel one night. It felt very futuristic, and for some reason I love it!
 
 
 ![Capsule hotels](./capsules.jpg)
-_Capsule hotel. Your just number_
+_Capsule hotel. Where you are just a number_
 
 #### Density stats
 For perspective, the Tokyo metro area is similar in population to the state of California, with a fraction of the population.
@@ -58,9 +58,9 @@ _Metro Tokyo:_
 ### The land of 1000 7 Elevens
 We had heard going into the trip that the convenient stores (conbinis) in Japan were amazing. Articles like [this](https://www.eater.com/2017/2/21/14668440/tokyo-convenience-store-conbini-snacks) had made us eager to check them out – why were chefs and critics like David Chang and Anthony Bourdain in love with convenient store food?
 
-I was skeptical, but I fell in love! Why aren't 7 Elevens like this in the states?
+I was skeptical, but I came around and left wondering why 7 Elevens aren't as lovely in the states.
 
-#### Why??
+#### Why are they so great??
 
 1. **The food is quality and cheap.** The quality is really high for convenient stores. You can get a fairly healthy meal for under $3. If you spend a bit more you can get a bento box or larger meal.
 1. **Easy for foreigners.** Transactions weren't always smooth for me in Japan. The conbini transactions were great for non-speakers. They are clean and consisistent.
@@ -73,11 +73,12 @@ The rice triangles were my go-to meal. For a little over $1 they were filling, t
 
 ![Rice triangles at 7 Eleven](./711-rice-triangle.jpg)
 
-The egg salad sandwiches are like eating a cloud. The egg is smooth and creamy without much flavor. The bread is white and fluffy with the crusts cut off. Normally I wouldn't go for a sandwich like this, but the execution is perfect and I fell in love.
+The egg salad sandwiches are like eating a cloud. The egg is smooth and creamy without much flavor. The bread is white and fluffy with the crusts cut off. Normally I wouldn't go for a sandwich like this, but the execution is perfect.
+
 ![Egg Salad sandwich at 7 Eleven](./711-egg-salad.jpg)
 
 ### Awesome transit
-The transit there is amazing. Fast and timely trains are everywhere, even small, remote towns. Tourists are able to buy a JR pass for ~$400, an amazing value. Most Shinkansen (bullet train) tickets are ~$100-300, so if you leave Tokyo, it probably makes sense to get a JR pass.
+The transit there is amazing. Fast and timely trains are everywhere, even in small remote towns. Tourists are able to buy a JR pass for ~$400, an amazing value. Most Shinkansen (bullet train) tickets are ~$100-300, so if you leave Tokyo, it probably makes sense to get a JR pass.
 
 ![Empty JR station](./jr-empty.jpg)
 _Photo: Swathi Mummini_, probably the only empty Shinkansen platform in Japan
@@ -109,10 +110,10 @@ _Photo: Swathi Mummini_, tea fields outside of Nara
 _Cedar groves outside of Nara_
 
 ![Cherry blossoms](./cherry-blossoms-bright.jpg)
-_Photo: Swathi Mummini_, Cherry blossoms
+_Photo: Swathi Mummini_, cherry blossoms
 
-![Arches, Hiroshima](./arches.jpg)
-_Photo: Swathi Mummini_, arches outside of Hiroshima
+![Torii on Miyajima Island, outside of Hiroshima](./arches.jpg)
+_Photo: Swathi Mummini_, torii on Miyajima Island, outside of Hiroshima
 
 ### Great friends
 
