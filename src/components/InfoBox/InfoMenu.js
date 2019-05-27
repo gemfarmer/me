@@ -30,17 +30,20 @@ const InfoMenu = props => {
     <nav className={classes.infoMenu}>
       {pages.map((page, i) => {
         const { fields, frontmatter } = page.node;
-        return (
-          <Link
-            key={fields.slug}
-            to={fields.slug}
-            onClick={linkOnClick}
-            className={classes.link}
-            data-shape="closed"
-          >
-            {frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title}
-          </Link>
-        );
+        const linkTitle = frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title
+        if (linkTitle) {
+          return (
+            <Link
+              key={fields.slug}
+              to={fields.slug}
+              onClick={linkOnClick}
+              className={classes.link}
+              data-shape="closed"
+            >
+              {linkTitle}
+            </Link>
+          );
+        }
       })}
       <Link to="/contact/" onClick={linkOnClick} className={classes.link} data-shape="closed">
         Contact

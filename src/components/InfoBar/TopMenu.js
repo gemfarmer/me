@@ -87,19 +87,21 @@ class TopMenu extends React.Component {
                     </MenuItem>
                     {pages.map((page, i) => {
                       const { fields, frontmatter } = page.node;
-
-                      return (
-                        <Link key={fields.slug} to={fields.slug} style={{ display: "block" }}>
-                          <MenuItem
-                            onClick={e => {
-                              this.props.pageLinkOnClick(e);
-                              this.handleClose();
-                            }}
-                          >
-                            {frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title}
-                          </MenuItem>
-                        </Link>
-                      );
+                      const linkTitle = frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title
+                      if (linkTitle) {
+                        return (
+                          <Link key={fields.slug} to={fields.slug} style={{ display: "block" }}>
+                            <MenuItem
+                              onClick={e => {
+                                this.props.pageLinkOnClick(e);
+                                this.handleClose();
+                              }}
+                            >
+                              {linkTitle}
+                            </MenuItem>
+                          </Link>
+                        );
+                      }
                     })}
                     <Link to="/contact/" style={{ display: "block" }}>
                       <MenuItem
