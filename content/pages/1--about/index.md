@@ -4,7 +4,7 @@ title: About
 
 ## Brian Shea Hedberg
 
-I'm a thinker, a dreamer, and a generalist. I am fascinated by how the world works and have fun thinking about what it could be come. This is my personal site, so expect thoughts and ramblings about regenerative ag and transit intermixed with code snippets.
+I'm a thinker, a dreamer, and a generalist. I am fascinated by how the world works and have fun imagining what it could be come. This is my personal site, so expect thoughts and ramblings about regenerative ag and transit intermixed with code snippets.
 
 ![Brian](./Brian.jpg)
 
