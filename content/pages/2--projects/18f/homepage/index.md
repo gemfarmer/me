@@ -1,7 +1,7 @@
 ---
+title: 18F Homepage
+menuTitle: false
 ---
-
-# 18F Homepage
 **[18F](https://18f.gsa.gov/) | 2016 | _Remote_**
 
 ## 18F

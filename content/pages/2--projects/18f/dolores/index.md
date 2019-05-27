@@ -1,7 +1,8 @@
 ---
+title: Dolores Landingham Onboarding Bot
+menuTitle: false
 ---
 
-# Dolores Landingham Onboarding Bot
 **[18F](https://18f.gsa.gov/) | 2015 | _Remote_**
 
 ## 18F

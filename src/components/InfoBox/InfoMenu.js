@@ -31,7 +31,9 @@ const InfoMenu = props => {
       {pages.map((page, i) => {
         const { fields, frontmatter } = page.node;
         const linkTitle = frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title
-        if (linkTitle) {
+        const hideFromMenus = frontmatter.menuTitle == 'false'
+
+        if (!hideFromMenus) {
           return (
             <Link
               key={fields.slug}
