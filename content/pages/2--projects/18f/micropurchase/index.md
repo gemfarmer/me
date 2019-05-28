@@ -1,6 +1,6 @@
 ---
 title: Micro-purchase
-menuTitle: false
+menuTitle: Micro-purchase
 ---
 
 # Micro-purchase

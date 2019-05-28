@@ -1,6 +1,6 @@
 ---
 title: Digital Weekly Ad
-menuTitle: false
+menuTitle: Digital Weekly Ad
 ---
 **[Target Corporation](https://target.com/) | 2015 | _Minneapolis, MN_**
 

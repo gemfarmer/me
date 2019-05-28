@@ -1,6 +1,6 @@
 ---
 title: US EITI
-menuTitle: false
+menuTitle: US EITI
 ---
 **[18F](https://18f.gsa.gov/) | 2015-17 | _Remote_**
 

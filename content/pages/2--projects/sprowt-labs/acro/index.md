@@ -1,6 +1,6 @@
 ---
 title: Acro
-menuTitle: false
+menuTitle: Acro
 ---
 
 **[Sprowt Labs](https://www.sprowtlabs.com/) | 2017-Current | _Minneapolis, MN_**
