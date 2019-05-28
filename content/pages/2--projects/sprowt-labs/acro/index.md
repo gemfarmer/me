@@ -24,8 +24,20 @@ I am the architect and sole maintainer of our website and our web application, a
 * Won $29k grant for injection molding manufacturing
 * Designed injection molded part and several other CAD-designed custom metal parts
 
+
 ![Exploded view of injection molded part](./humidifier-box.png)
 _Source: [sprowtlabs.com](https://www.sprowtlabs.com)_, exploded view of injection molded part that I designed.
 
+### In the News
+* [Star Tribune, HomebrewCon](http://www.startribune.com/sprowt-labs-launches-malting-system-for-nano-brewers/492130961/)
+* [Star Tribune, Acro](http://www.startribune.com/making-your-own-beer-couldn-t-be-easier/442898123/)
+* [Proto Labs](https://www.protolabs.com/about-us/cool-idea-award/sprowt-labs/)
+* [Cool Idea! Award](https://www.protolabs.com/about-us/cool-idea-award/)
+* [Make Parts Fast](https://www.makepartsfast.com/injection-molding-helps-inventors-meet-accelerated-timeline/)
+
 ### Software & Firmware Tools Used
 Ruby on Rails, JavaScript, Various web APIs, Heroku, PostrgreSQL, Redis, Sidekiq, Web Sockets, AWS (S3, CloudFront), Particle API, C++, Arduino, Python, SoftAP
+
+
+
+
