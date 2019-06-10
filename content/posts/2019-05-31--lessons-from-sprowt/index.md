@@ -1,7 +1,7 @@
 ---
 title: Lessons from Sprowt Labs (Pt. 1)
 subTitle: Handling stress
-cover: Acro_product_shot_cropped.jpg
+cover: stress.jpg
 category: "startups"
 ---
 
