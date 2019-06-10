@@ -2,9 +2,16 @@
 My personal site
 
 
-Deploys to https://competent-feynman-998d6b.netlify.com
 
-### Blog Post Ideas
+Deploys to https://brianshedberg.netlify.com --> https://brianshedberg.me
+
+## Run site
+
+```
+gatsby develop
+```
+
+## Blog Post Ideas
 - Gatsby vs Jekyll
 - Sprowt Labs
   - start up lyfe
@@ -17,3 +24,9 @@ Deploys to https://competent-feynman-998d6b.netlify.com
   - Ride sharing?
   - Landuse/zoning
 - Shipping containers as temprorary housing
+- Scooter safety stats
+  - compared to cars
+  - compared to bikes
+  - business model
+- Rapid bus transit
+  - [Mobility Index](https://www2.deloitte.com/insights/us/en/focus/future-of-mobility/deloitte-urban-mobility-index-for-cities.html)
